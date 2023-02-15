@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852414368115",
+    "project_id": "loginflutter-adbde",
+    "storage_bucket": "loginflutter-adbde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852414368115:android:43b83cf70a6d789cbb5d06",
+        "android_client_info": {
+          "package_name": "com.example.layout_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852414368115-23mspsaejrdt7f1ragddovfq7mop4jo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx8AMgPBj-2hkkI2rn82euJ4ryxPMoPxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852414368115-23mspsaejrdt7f1ragddovfq7mop4jo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
