@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:layout_1/screens/basic_desing.dart';
+import 'package:layout_1/screens/login_desing.dart';
 
 
 
@@ -111,7 +111,7 @@ class Page2 extends StatelessWidget {
               shape: StadiumBorder()
             ),
           onPressed: (){
-            Navigator.push(context, MaterialPageRoute(builder: (context) => BasicDesingScreen()));
+            Navigator.push(context, MaterialPageRoute(builder: (context) => Login_Desing()));
           },
         ),
     ),
